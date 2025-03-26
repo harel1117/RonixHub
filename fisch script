@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Superman245/sc2/refs/heads/main/s6"))()
